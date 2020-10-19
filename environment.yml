@@ -1,0 +1,10 @@
+name: hsvSegmentation
+
+dependencies:
+    - python >=3.6
+    - jupyter
+    - numpy >=1.19.2
+    - scikit-image >=0.17.2
+    - matplotlib
+    - pandas
+    - scipy
